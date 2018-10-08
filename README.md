@@ -1,2 +1,2 @@
-# law_school_admissions
+# Law School Admissions
 Code to predict law school admissions outcomes.
